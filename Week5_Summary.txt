@@ -1,0 +1,7 @@
+WEEK 5 SUMMARY
+
+According to old design, bottom navigation view was communicating with small views linked to an activity called fragment.
+But since making the main views of the project with fragments would make it even more difficult, we linked the buttom navigation view to 4 different activities called home, search, favorites and my account.
+Because the tasks of these views are different, they have to be different activities. They should not be connected to an activity.
+On the other hand, we started profile page design. We did the requirements analysis.
+
