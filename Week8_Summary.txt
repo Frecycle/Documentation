@@ -1,0 +1,1 @@
+In general, we have solved our shortcomings in the last weeks. We completed system requires. We make material search actvity design and edit appearance of some items( buttons, colors, text, etc.) Also we improve user interface more and fix bugs.
