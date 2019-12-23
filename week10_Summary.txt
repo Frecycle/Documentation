@@ -1,0 +1,3 @@
+this week, we added product deleting property and search bar to our application,
+also we made the favorites part to our application for saving listings or requests.
+
