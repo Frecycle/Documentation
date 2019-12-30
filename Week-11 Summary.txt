@@ -1,0 +1,1 @@
+we added our app pull to refresh pattern to homepage in android and dictionary.
